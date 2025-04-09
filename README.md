@@ -49,14 +49,5 @@ Setiap polygon akan divisualisasikan dengan warna tertentu pada tampilan video.
    - Status apakah pelanggan duduk atau hanya lewat
 5. Jika pelanggan meninggalkan meja sebelum 5 detik, mereka tidak dicatat.
 
-## Kontak & Sosial Media
-Ikuti saya untuk update lebih lanjut:
-- Instagram: [@ademaulana_](https://www.instagram.com/ademaulana_/)
-- TikTok: [@ademaulana_4](https://www.tiktok.com/@ademaulana_4)
-
-## Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan Anda.
-
-
 # TREX
 
