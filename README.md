@@ -1,4 +1,4 @@
-# YOLO Person Tracking di Kafe dengan Polygon Meja
+# TREX with YOLO for Person Tracking (Impementasi pada Cafe dan shape pada Meja)
 
 ## Deskripsi
 Program ini menggunakan model YOLO untuk mendeteksi dan melacak pelanggan yang duduk di meja di dalam kafe. Setiap meja didefinisikan sebagai area polygon, dan sistem akan mencatat waktu yang dihabiskan pelanggan di meja tertentu. Jika pelanggan hanya lewat tanpa duduk minimal 5 detik, maka mereka tidak akan dihitung sebagai pelanggan yang duduk.
